@@ -1,0 +1,15 @@
+2.18d8
+  0  0  0
+    0.000000000000E+00
+  2  2  0
+    0.7090782353523232E+15
+  40.078
+    6.1132 2.9325 
+Ca I 2-level atomic model for line at 4226.73 A
+
+Values:
+ Einstein A coefficient for spontaneous emission [s^-1]
+ 2 J_l, 2 L_l, 2 S_l
+ Lower level energy [Hz]
+ 2 J_u, 2 L_u, 2 S_u
+ Upper level energy [Hz]
